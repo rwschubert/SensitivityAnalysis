@@ -4,9 +4,7 @@ _IEEE Intelligent Vehicles Symposium 2020_
 
 ---
 
-This is an overview about the resources considering the following paper:
-
-_Sensitivity Analysis for Vehicle Dynamics Models - An Approach to Model Quality Assessment for Automated Vehicles_
+(This is an overview about the resources considering the paper.)
 
 Model-based approaches have become increasingly popular in the domain of automated driving.
 This includes runtime algorithms, such as Model Predictive Control,
