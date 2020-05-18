@@ -1,8 +1,6 @@
-## Sensitivity Analysis for Vehicle Dynamics Models
+### Sensitivity Analysis for Vehicle Dynamics Models - An Approach to Model Quality Assessment for Automated Vehicles
 
-An Approach to Model Quality Assessment for Automated Vehicles
-
-_Intelligent Vehicles Symposium 2020_
+_IEEE Intelligent Vehicles Symposium 2020_
 
 ---
 
