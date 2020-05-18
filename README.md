@@ -4,7 +4,7 @@ _IEEE Intelligent Vehicles Symposium 2020_ (reviewed and accepted)
 
 ---
 
-(This is an overview about the resources considering the paper.)
+(This is an overview about the resources considering our paper.)
 
 Model-based approaches have become increasingly popular in the domain of automated driving.
 This includes runtime algorithms, such as Model Predictive Control,
