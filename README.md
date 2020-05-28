@@ -19,3 +19,13 @@ and provide examples of possible applications of the gained insights.
 The paper pre-print can be found here: [arXiv](https://arxiv.org/abs/2005.03872)
 
 Related downloadable files can be found here: [TU Braunschweig](https://www.ifr.ing.tu-bs.de/static/files/forschung/IV2020/sensitivity_analysis/sensitivity_download.php)
+
+##### Citation
+```
+@article{nolte2020sensitivity,
+  title={Sensitivity Analysis for Vehicle Dynamics Models--An Approach to Model Quality Assessment for Automated Vehicles},
+  author={Nolte, Marcus and Schubert, Richard and Reisch, Cordula and Maurer, Markus},
+  journal={arXiv preprint arXiv:2005.03872},
+  year={2020}
+}
+```
